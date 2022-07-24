@@ -1,0 +1,6 @@
+1. Upgrade to Angular 14
+    - ng update @angular/core@14 @angular/cli@14
+2. Test run
+3. Enroll to Okta
+4. Test Run
+5. Create module, component
